@@ -1,10 +1,3 @@
-# TEAM 7
-
-- **Members**:
-  - 20424002 - Lê Ngọc Ân
-  - 20424008 - Dương Mạnh Cường
-  - 20424013 - Phạm Nguyễn Mỹ Diễm
-
 # 1. Install Python's required packages
 
 - **Python** _(3.8.5)_
